@@ -1,5 +1,12 @@
-# Misgrind: Creature Clapper Version 1
-![Misgrind GUI](misgrind_gui.png)
+<div align="center">
+
+# Misgrind: Creature Clapper Version 1  
+
+![Misgrind GUI](misgrind_gui.png)  
+
+[**▶ Watch the Misgrind Showcase**](https://www.youtube.com/watch?v=iDrcTTMWGGE)  
+
+</div>
 
 > **Game Automation Assistant for Miscrits**  
 > Automate battles, training, and hunting miscrits with precision image detection and customizable settings.
